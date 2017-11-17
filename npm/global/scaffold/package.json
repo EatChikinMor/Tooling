@@ -1,0 +1,21 @@
+{
+  "name": "scaffold-component",
+  "version": "0.1.0",
+  "description": "An npm module to scaffold react components",
+  "main": "index.js",
+  "bin": {
+    "react-scaffold": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "scaffold"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.0",
+    "prompt": "^0.2.14"
+  }
+}
